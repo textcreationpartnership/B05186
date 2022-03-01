@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act for putting the kingdome in a posture of warre</title>
+            <author>Scotland. Parliament. Committee of Estates.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05186</idno>
+            <idno type="STC">Wing S1092A</idno>
+            <idno type="STC">ESTC R183895</idno>
+            <idno type="EEBO-CITATION">53981710</idno>
+            <idno type="OCLC">ocm 53981710</idno>
+            <idno type="VID">180333</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05186)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180333)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2826:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act for putting the kingdome in a posture of warre</title>
+                  <author>Scotland. Parliament. Committee of Estates.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler, Printer to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Headpiece; initial letter.</note>
+                  <note>Signed at end: Alex. Gibsone, Cler. Registri.</note>
+                  <note>Imperfect: creased and torn with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Army --  Mobilization --  Early works to 1800.</term>
+               <term>Scotland --  History --  1642-1649 --  Sources.</term>
+               <term>Scotland --  Defenses --  17th century --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:180333:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 14 -->
+            <head>
+               <hi>ACT</hi> For putting of the Kingdome in a Poſture of Warre.</head>
+            <p>
+               <seg rend="decorInit">A</seg>T EDINBURGH the twentie fifth day of <hi>July,</hi> the year of God, one thouſand ſixe hundreth fourtie and four years. The Eſtates of Parliament preſently conveened, by vertue of the laſt Act of the laſt Parliament, holden by his Majeſty and the three Eſtates, in <hi>Anno</hi> 1641. Conſidering the great Preparations made by Strangers, and ſome unnaturall Countrey-men, to invade this Kingdom, and deſtroy the Religion, Laws, and Liberties thereof: And that an Army under the command of Prince <hi>Rupert,</hi> are marching in an hoſtile way towards the Borders of this Kingdom for that effect, Do finde it abſolutely neceſſary, that for our owne preſervation and ſafety of this Countrey, the famine ſhould be put in a poſture of defence, as may raiſe the Countrey moſt ſpeedily, and bring them ſooneſt forth to reſiſt the preſent in<g ref="char:EOLhyphen"/>vaſion. Therefore it is ſtatute and ordained, that all the ſenſible perſons betwixt ſixtie and ſixteene, of whatſoever quality, within the Sheriffdoms of Berwick, Roxburgh, Selkirk, Pee<g ref="char:EOLhyphen"/>bles, Drumfreis, and Stuartries of Anandale and Kirkcudbright, Conſtabularie of Hadintoun, Bailiarie of Lawderdale, Edinburgh principall, Linlithgow, Stirling, Clackmannan, Lanerik, Aire, Renfrew, Wigtoun, Fyfe, Perth, and Forfar, Be preſently contrived in Companies and Regiments of Horſe and Foot, and that they be ſufficiently provided with Arms and Ammunition, and thirty dayes proviſion, and be ready to defend the Coun<g ref="char:EOLhyphen"/>trey, oppoſe any Invaſion, and purſue the Invaders; And that they be aiding and aſſiſting to eithers, and be ready to march where the Invaſion ſhall happen to be, or to ſuch places of Rendezvous as upon certain intelligence and correſpondence amongſt theſe who hath command; ſhall be thought moſt fitting, for oppoſing and purſuing the Enemy. And if any of the Heritors be aged or known to be infirm, That they ſend out able men, with their beſt Horſe and Arms. And ſtatutes and ordains the whole For<g ref="char:EOLhyphen"/>ces Horſe and Foot aforeſaid, to be ready to march upon advertiſement, by putting forth of Beakons upon the accuſtomed pla<g ref="char:EOLhyphen"/>ces or ſuch other advertiſement as ſhall be given in (excepting ſuch <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the <unclear>Marqueſſe</unclear> of <hi>Argyle</hi> ſhall <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <unclear>publick</unclear> ſervice in the Weſt, out of the Shires of Air, Stirling, Perth, and Renfrew.) And to the effect the Forces in the Shires may be the better provided with Arms, and more ſpeedily and exactly brought forth, The Eſtates foreſaids ordains, that all ſuch as were formerly appointed to be Colonels, or Root-maſters of the Shires, by the Convention of Eſtates and their Committees, ſtill remain and continue in that charge in theſe Shires where they are nominate. And ordains the ſamine Diviſions and Conjun<g ref="char:EOLhyphen"/>ctions of Shires likewiſe to ſtand. And in like manner ordains the whole Noblemen and Committees of Warre of the ſeverall Shires and Diviſions, to meet all in their own ſeverall Committees, in their ordinary place of meeting, betwixt and the ſixth day of Auguſt next to come <hi>incluſivè</hi> at the fartheſt, and there to determine upon the ſaids Regiments Both Horſe and Foot, and ac<g ref="char:EOLhyphen"/>cording to the number of the famine Horſe and Foot within ilk ſeverall Shire and Diviſion, to chooſe and appoint moe Colonels, Root-maſters, and all other Officers neceſſary for leading and commanding of their Forces, aſwell Horſe as Foot, and to provide as many Arms &amp; Ammunition as wil arm all the able men in the Shire; &amp; that either by giving preſent Money for them, or Bands for the price thereof to a certaine day, and they to have Letters of relief againſt the Heritors for repayment of the famine. With power to the Committees foreſaids, and the Heritors, to diſtribute the Arms in the ſeverall Shires and Diviſions to theſe perſons that wants. And ordains all ſenſible perſons whatſoever, betwixt ſixtie and ſixteen, to come forth upon the advertiſement fore<g ref="char:EOLhyphen"/>ſaid, under the pains following, <hi>viz,</hi> Ilk Noble-man, Gentle-man, Heritor, and Burgeſſe, (except Edinburgh and Stirling, who are ordained to put all the fenſible men within their Towns in Arms and Poſture of defence) under the pain of a years Rent, and ilk Yeoman, under the pain of confiſcation of their whole Moveables, to be applyed to the uſe of the Publick, and to be farther puniſhed, as contemners of the orders and authority of Parliament, and infringers of their Covenant. And ordains this preſent Act to be preſently publiſhed at the Market-Croſſe of Edinburgh, by an Herauld, by ſound of Trumpet.</p>
+            <closer>
+               <signed>Alex. Gibſone Cler. Regiſtri.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>EDINBURGH</hi> by <hi>EVAN TYLER,</hi> Printer to the Kings moſt Excellent Majeſtie. <hi>1644.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
